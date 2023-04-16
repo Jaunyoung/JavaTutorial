@@ -1,3 +1,5 @@
+package basics;
+
 public class BooleanTest1 {
     public static void main(String[] args) {
         boolean flag1 = false;

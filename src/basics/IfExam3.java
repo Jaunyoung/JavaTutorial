@@ -1,3 +1,5 @@
+package basics;
+
 public class IfExam3 {
     public static void main(String[] args){
         int score = 70;

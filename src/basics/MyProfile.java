@@ -1,3 +1,5 @@
+package basics;
+
 public class MyProfile {
     public static void main(String[] args) {
         System.out.print("정재영");

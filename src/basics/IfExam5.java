@@ -1,3 +1,5 @@
+package basics;
+
 public class IfExam5 {
     public static void main(String[] args) {
         int a = 10;

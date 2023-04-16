@@ -1,3 +1,5 @@
+package basics;
+
 public class LabelExam1 {
     public static void main(String[] args) {
         outter:

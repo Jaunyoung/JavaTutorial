@@ -1,3 +1,5 @@
+package basics;
+
 public class BitOperatorExam1 {
     public static void main(String[] args){
         int a = 4;

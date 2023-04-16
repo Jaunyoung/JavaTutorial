@@ -1,3 +1,5 @@
+package basics;
+
 public class NumberExam01 {
     public static void main(String[] args){
         int maxInt = Integer.MAX_VALUE;

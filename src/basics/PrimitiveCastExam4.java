@@ -1,3 +1,5 @@
+package basics;
+
 public class PrimitiveCastExam4 {
     public static void main(String[] args){
         long x2 = 50;
